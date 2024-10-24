@@ -20,7 +20,7 @@ const data: {
     },
     {
       id: "2",
-      title: "当社CEOが業界リーダーTOP30に選出されました",
+      title: "当社CTOが業界リーダーTOP30に選出されました",
       category: {
         name: "更新情報",
       },
@@ -46,7 +46,7 @@ export default function Home() {
     <>
       <section className={styles.top}>
         <div>
-          <h1 className={styles.title}>テクノロジーの力で世界を変える。</h1>
+          <h1 className={styles.title}>未来を創る、次世代エンジニアの育成コミュニティ</h1>
           <p className={styles.description}>
             私たちは市場をリードしているグローバルテックカンパニーです。
           </p>
